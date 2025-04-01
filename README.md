@@ -27,9 +27,8 @@ gestiondestock_src/
 1. **Contrôleurs (Controllers)** : Point d'entrée des requêtes HTTP, implémentent les API REST.
 2. **Services** : Contiennent la logique métier de l'application.
 3. **DTO (Data Transfer Objects)** : Objets utilisés pour transférer des données entre les couches.
-4. **Entités** : Représentations des tables en base de données (non visibles dans l'architecture au-dessus).
+4. **Entités / Modèles** : Représentations des tables en base de données (non visibles dans l'architecture au-dessus).
 5. **Repositories** : Interfaces pour l'accès aux données (non visibles dans l'architecture au-dessus).
-6. **Modèles** : Représentations des données (non visibles dans l'architecture au-dessus).
 
 ### Fonctionnalités principales
 
